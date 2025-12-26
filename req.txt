@@ -1,0 +1,7 @@
+streamlit
+androguard
+requests
+beautifulsoup4
+lxml
+transformers  # optional later, but install now if space/time permits
+torch         # required by transformers; you can delay if heavy

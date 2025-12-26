@@ -1,0 +1,23 @@
+# Virtual environments
+medsecure-venv/
+
+# IDE files
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# APK / bundles (large & unnecessary)
+*.apk
+*.apkm
+*.xapk
+
+# OS files
+.DS_Store
+medsecure-venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
