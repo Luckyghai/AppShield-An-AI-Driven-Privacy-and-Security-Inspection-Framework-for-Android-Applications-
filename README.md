@@ -74,3 +74,4 @@ source medsecure-venv/bin/activate
 
 # Run the application
 streamlit run app.py
+# AppShield-An-AI-Driven-Privacy-and-Security-Inspection-Framework-for-Android-Applications-
